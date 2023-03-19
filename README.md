@@ -6,11 +6,15 @@
 <li> :dizzy:: Cursando Ciência da Computação</li>
 </ul>
 
-<div align="left">
+<div align="left" style="display: inline_block">
   <a href="https://github.com/CarlosBrittes">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=CarlosBrittes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosBrittes&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=CarlosBrittes&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosBrittes&layout=compact&langs_count=7&theme=gruvbox"/>
+    
 </div><br>
+  
+ 
+  [![CarlosBrittes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosBrittes&theme=gruvbox)](https://github.com/CarlosBrittes/github-readme-stats)
 
 ## :high_brightness: Tecnologias
 <div style="display: inline_block">
