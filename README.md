@@ -6,15 +6,11 @@
 <li> :dizzy:: Cursando Ciência da Computação</li>
 </ul>
 
-<div align="left" style="display: inline_block">
-  <a href="https://github.com/CarlosBrittes">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=CarlosBrittes&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosBrittes&layout=compact&langs_count=7&theme=gruvbox"/>
-    
-</div><br>
-  
- 
-  [![CarlosBrittes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosBrittes&theme=gruvbox)](https://github.com/CarlosBrittes/github-readme-stats)
+[![CarlosBrittes's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosBrittes&show_icons=true&theme=gruvbox&show_icons=true&count_private=true)](https://github.com/CarlosBrittes/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosBrittes&show_icons=true&theme=gruvbox&layout=compact)](https://github.com/CarlosBrittes/github-readme-stats)
+
+[![CarlosBrittes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosBrittes&show_icons=true&theme=gruvbox)](https://github.com/CarlosBrittes/github-readme-stats)
 
 ## :high_brightness: Tecnologias
 <div style="display: inline_block">
