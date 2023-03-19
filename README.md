@@ -1,9 +1,5 @@
 ## Olá, Seja bem-vindo ao meu perfil :)
 
-
-- 🤓 Estudando...
-- 😄 Pronouns: ele/dele
-
 [![CarlosBrittes's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosBrittes&show_icons=true&theme=radical&show_icons=true&count_private=true)](https://github.com/CarlosBrittes/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosBrittes&show_icons=true&theme=radical&layout=compact)](https://github.com/CarlosBrittes/github-readme-stats)
