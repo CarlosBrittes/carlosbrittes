@@ -10,8 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosBrittes&show_icons=true&theme=gruvbox&layout=compact)](https://github.com/CarlosBrittes/github-readme-stats)
 
-[![CarlosBrittes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CarlosBrittes&show_icons=true&theme=gruvbox)](https://github.com/CarlosBrittes/github-readme-stats)
-
 ## :high_brightness: Tecnologias
 <div style="display: inline_block">
   <img align="center" alt="Carlos-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
